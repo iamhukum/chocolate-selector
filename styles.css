@@ -1,0 +1,145 @@
+/* Reset some default styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set background color and text color for the page */
+body {
+    background-color: #acacac;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+/* Add a hover effect for the images */
+.chocolate img:hover {
+    transform: scale(1.05); /* Increase the size of the image on hover */
+    transition: transform 0.2s ease-in-out; /* Add a smooth transition effect */
+}
+
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Style the container */
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Style the chocolate options */
+.chocolates {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.chocolate {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.chocolate h2 {
+    margin: 10px 0;
+}
+
+.chocolate img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    transition: transform 0.2s ease-in-out; /* Smooth transition effect */
+}
+
+/* Add a hover effect for the images */
+.chocolate img:hover {
+    transform: scale(1.05); /* Increase the size of the image on hover */
+    transition: transform 0.2s ease-in-out; /* Add a smooth transition effect */
+}
+
+.add-button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.add-button:hover {
+    background-color: #555;
+}
+
+/* Style the cart section */
+.cart {
+    flex: 1;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+}
+
+.selected-chocolates {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+}
+
+.selected-chocolates li {
+    margin-bottom: 10px;
+}
+
+/* Style the total price */
+#total-price {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #555;
+}
+
+/* Style the clear button */
+#clear-button {
+    background-color: #d9534f;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#clear-button:hover {
+    background-color: #c9302c;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
+
+/* Add specific sizes to individual cards */
+.card.chocolate-1 {
+    width: 300px;
+    height: auto;
+}
+
+.card.chocolate-2 {
+    width: 250px;
+    height: auto;
+}
+
+.card.chocolate-3 {
+    width: 300px;
+    height: auto;
+}

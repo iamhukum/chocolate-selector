@@ -1,0 +1,84 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\npm\bootstrap@5.0.2\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\npm\bootstrap@5.0.2\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://choclate-app.onrender.com/
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\index.htm
+Content Type: text/html
+
+Uri: https://choclate-app.onrender.com/script.js
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\script.js
+Content Type: text/javascript
+
+Uri: https://choclate-app.onrender.com/styles.css
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\styles.css
+Content Type: text/css
+
+Uri: https://drinkjimmys.com/cdn/shop/files/2_3929e681-47d9-4099-8aa2-e48d28a7bb80.jpg?v=1692179307&width=360
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\cdn\shop\files\2_3929e681-47d9-4099-8aa2-e48d28a7bb80.jpg
+Content Type: image/jpeg
+
+Uri: https://drinkjimmys.com/cdn/shop/files/Artboard1copy_cb1cb317-f2ef-4b63-8c18-7c51fd8a7402.png?v=1692185252&width=360
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\cdn\shop\files\Artboard1copy_cb1cb317-f2ef-4b63-8c18-7c51fd8a7402.png
+Content Type: image/png
+
+Uri: https://drinkjimmys.com/cdn/shop/files/BarSpoon_Fork_83abd70d-6011-480f-950d-35c483dd49f7.jpg?v=1692186159&width=360
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\cdn\shop\files\BarSpoon_Fork_83abd70d-6011-480f-950d-35c483dd49f7.jpg
+Content Type: image/jpeg
+
+Uri: https://drinkjimmys.com/cdn/shop/files/cs-01_7450887d-f3c7-4d44-b940-a57520e14cd7.png?v=1692181742&width=360
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\cdn\shop\files\cs-01_7450887d-f3c7-4d44-b940-a57520e14cd7.png
+Content Type: image/png
+
+Uri: https://drinkjimmys.com/cdn/shop/files/em-02_10a16250-00e2-4d32-950b-867da7a9f89a.jpg?v=1692184729&width=360
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\cdn\shop\files\em-02_10a16250-00e2-4d32-950b-867da7a9f89a.jpg
+Content Type: image/jpeg
+
+Uri: https://drinkjimmys.com/cdn/shop/files/HustleAd1080x1080.png?v=1694090578&width=360
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\cdn\shop\files\HustleAd1080x1080.png
+Content Type: image/png
+
+Uri: https://drinkjimmys.com/cdn/shop/files/JC-BLOODY-MARRY-2.jpg?v=1692863591&width=360
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\cdn\shop\files\JC-BLOODY-MARRY-2.jpg
+Content Type: image/jpeg
+
+Uri: https://drinkjimmys.com/cdn/shop/files/JimmyAssortedCocktailMixerPack-1.webp?v=1693481883&width=360
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\cdn\shop\files\JimmyAssortedCocktailMixerPack-1.webp
+Content Type: image/jpeg
+
+Uri: https://drinkjimmys.com/cdn/shop/files/Jimmy_sCelebrationPack_1_7072f4b7-e1a8-49b5-b2b1-ff71cb403157.png?v=1692879562&width=360
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\cdn\shop\files\Jimmy_sCelebrationPack_1_7072f4b7-e1a8-49b5-b2b1-ff71cb403157.png
+Content Type: image/png
+
+Uri: https://drinkjimmys.com/cdn/shop/files/PI1_b33b5bf3-2f4e-479e-8ae1-688930170499.jpg?v=1692185351&width=360
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\cdn\shop\files\PI1_b33b5bf3-2f4e-479e-8ae1-688930170499.jpg
+Content Type: image/jpeg
+
+Uri: https://drinkjimmys.com/cdn/shop/files/Untitleddesign_2_3f518728-902b-4695-ae84-4f3d191242c2.jpg?v=1692179894&width=360
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\cdn\shop\files\Untitleddesign_2_3f518728-902b-4695-ae84-4f3d191242c2.jpg
+Content Type: image/jpeg
+
+Uri: https://drinkjimmys.com/cdn/shop/files/Untitleddesign_4_c9adc989-85dd-44cf-96b8-d8b5460c0549.jpg?v=1692178882&width=360
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\cdn\shop\files\Untitleddesign_4_c9adc989-85dd-44cf-96b8-d8b5460c0549.jpg
+Content Type: image/jpeg
+
+Uri: https://drinkjimmys.com/cdn/shop/files/Updated_G-Pack_1_4d46c0e0-5404-4f81-9b2c-cfc8fb28fe18.jpg?v=1692186260&width=360
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\cdn\shop\files\Updated_G-Pack_1_4d46c0e0-5404-4f81-9b2c-cfc8fb28fe18.jpg
+Content Type: image/jpeg
+
+Uri: https://drinkjimmys.com/cdn/shop/files/wb-06_4311e9af-5e44-4d8a-a3e6-670720909343.jpg?v=1692180577&width=360
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\cdn\shop\files\wb-06_4311e9af-5e44-4d8a-a3e6-670720909343.jpg
+Content Type: image/jpeg
+
+Uri: https://drinkjimmys.com/cdn/shop/products/Untitleddesign.jpg?v=1630058774&width=360
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\cdn\shop\products\Untitleddesign.jpg
+Content Type: image/jpeg
+
+Uri: https://drinkjimmys.com/cdn/shop/products/Untitleddesign_1.jpg?v=1630058939&width=360
+File Name: D:\CN PROJECTS\Assignment 2.1\Chocolate\choclate-app.onrender.com\cdn\shop\products\Untitleddesign_1.jpg
+Content Type: image/jpeg
+
